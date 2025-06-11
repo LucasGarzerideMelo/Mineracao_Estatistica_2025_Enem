@@ -4,8 +4,8 @@ Projeto desenvolvido para a disciplina Mineração Estatística de Dados (SME-08
 
 ## Estrutura do projeto
 
--   `Dados/`:
--   `Notebook/` :
+-   `Dados/`: arquivo com os dados utilizados nas análises
+-   `Notebook/` : notebooks de análises e modelos
 -   `README.md`: This file, providing an overview of the project.
 
 ## Overview
