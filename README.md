@@ -3,6 +3,10 @@
 
 Projeto desenvolvido para a disciplina Mineração Estatística de Dados (SME-0878), ministrada pela Profa. Dra. Mariana Cúri.
 
+## Overview
+
+Neste projeto, tivemos como objetivo 
+
 ## Alunos
 
 Lucas Garzeri de Melo: N°USP - 13731344
