@@ -3,11 +3,21 @@
 
 Projeto desenvolvido para a disciplina Mineração Estatística de Dados (SME-0878), ministrada pela Profa. Dra. Mariana Cúri.
 
-## Project Structure
+## Estrutura do projeto
 
--   `Dados/`: 
+-   `Dados/`:
 -   `Notebook/` :
 -   `README.md`: This file, providing an overview of the project.
+
+
+## Metodologias
+
+
+## Resultados
+
+
+## Como replicar o projeto
+
 
 ## Alunos
 
