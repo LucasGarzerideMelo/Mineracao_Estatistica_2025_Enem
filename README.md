@@ -1,6 +1,5 @@
 # Mineracao_Estatistica_2025_Enem
 
-
 Projeto desenvolvido para a disciplina Mineração Estatística de Dados (SME-0878), ministrada pela Profa. Dra. Mariana Cúri.
 
 ## Estrutura do projeto
@@ -9,15 +8,23 @@ Projeto desenvolvido para a disciplina Mineração Estatística de Dados (SME-08
 -   `Notebook/` :
 -   `README.md`: This file, providing an overview of the project.
 
+## Overview
+
+Neste projeto, tivemos a tarefa de predizer o parâmetro (B) de dificuldade das questões do ENEM. Para isso, utilizamos as provas de 2009 a 2023. 
 
 ## Metodologias
 
-
-## Resultados
-
-
-## Como replicar o projeto
-
+- Extração dos dados
+- Montagem da base
+- Processamento dos dados
+- Tratamento das imagens
+- Análise exploratória
+- NILC embeddings
+- BERT embeddings
+- Similaridade entre os embeddings das alternativas
+- Regressão a partir dos embbedings
+- Análise dos embeddings
+- Fine tuned BERT
 
 ## Alunos
 
@@ -30,12 +37,3 @@ Augusto Sousa Nunes - NºUSP: 11319677
 Lua Nardi Quito - NºUSP: 11371270
 
 Lucas Schimidt Coelho - NºUSP: 11913019
-
-Neste projeto 
-
-
-
-
-
-
-
